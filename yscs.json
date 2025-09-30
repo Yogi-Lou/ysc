@@ -160,7 +160,6 @@
       "searchable":1,
       "quickSearch":1
     }
-    
   ],
   "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
   "lives": [{"group": "redirect","channels": [
